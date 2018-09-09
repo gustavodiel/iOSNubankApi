@@ -1,0 +1,22 @@
+{
+  "name": "iOSNubankApi",
+  "version": "0.1.0",
+  "summary": "A short description of iOSNubankApi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Gustavo Diel/iOSNubankApi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Gustavo Diel": "gustavodiel@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Gustavo Diel/iOSNubankApi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "iOSNubankApi/Classes/**/*"
+}

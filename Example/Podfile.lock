@@ -1,0 +1,16 @@
+PODS:
+  - iOSNubankApi (0.1.0)
+
+DEPENDENCIES:
+  - iOSNubankApi (from `../`)
+
+EXTERNAL SOURCES:
+  iOSNubankApi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSNubankApi: 1e0bbfa0bee3574074b47d2743933c19cc24b19c
+
+PODFILE CHECKSUM: a1c208ff7ea40ed0edff0b5567eaf7f30b9b89a3
+
+COCOAPODS: 1.5.3

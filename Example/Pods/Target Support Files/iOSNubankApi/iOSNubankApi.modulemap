@@ -1,0 +1,6 @@
+framework module iOSNubankApi {
+  umbrella header "iOSNubankApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
