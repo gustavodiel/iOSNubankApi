@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSNubankApi_Example' do
+  pod 'iOSNubankApi', :path => '../'
+
+  target 'iOSNubankApi_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
